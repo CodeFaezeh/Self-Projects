@@ -15,8 +15,8 @@ This is a simple **HTML & CSS** static webpage that I built while following one 
 <!--## 📷 Preview
 (You can add a screenshot here) -->
 
-## 🌐 Live Demo
-🔗 [View the Project](#) *(Replace # with your GitHub Pages link once it's live!)*
+<!--## 🌐 Live Demo
+🔗 [View the Project](#) *(Replace # with your GitHub Pages link once it's live!)*-->
 
 ## 📜 Disclaimer
 This project is for **learning purposes only**. The original design belongs to **Jonas Schmedtmann**, and all credits go to him.
